@@ -2,6 +2,10 @@
 
 > vue vertical-gallery components
 
+## 线上演示地址
+
+[demo](https://jiaochunxiao.github.io/vue-vertical-gallery/)
+
 ## Build Setup
 
 ``` bash
