@@ -7,7 +7,7 @@
 
 [demo](https://jiaochunxiao.github.io/vue-vertical-gallery/)
 
-![demo](https://github.com/jiaochunxiao/vue-vertical-gallery/gallery.gif)
+![demo](https://github.com/jiaochunxiao/vue-vertical-gallery/blob/master/gallery.gif)
 ## 使用说明
 
 ```
