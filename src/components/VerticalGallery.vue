@@ -37,10 +37,6 @@ export default {
         };
     },
     props:{
-        step: {
-            type: Number,
-            default: 40,
-        },
         itemHeight: {
             type: Number,
             default: 100
