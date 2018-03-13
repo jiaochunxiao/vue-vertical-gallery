@@ -4,7 +4,10 @@
 
 ## 线上演示地址
 
+
 [demo](https://jiaochunxiao.github.io/vue-vertical-gallery/)
+
+![](./gallery.gif =375x524)
 
 ## 使用说明
 

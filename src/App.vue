@@ -31,6 +31,27 @@ export default {
     components: {
         VerticalGallery
     }
+    // beforeCreate() {
+    //     console.log('--beforeCreate--');
+    //     console.log(this.imgs);
+    //     console.log(this.$el)
+    // },
+    // created() {
+    //     console.log('--created--');
+    //     console.log(this.imgs);
+    //     console.log(this.$el);
+    // },
+    // beforeMount() {
+    //     console.log('--beforeMount--');
+    //     console.log(this.imgs);
+    //     console.log(this.$el);
+    // },
+    // mounted() {
+    //     console.log('--mounted--');
+    //     console.log(this.imgs);
+    //     console.log(this.$el);
+    // }
+
 };
 
 </script>
